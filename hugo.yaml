@@ -1,5 +1,5 @@
 ---
-title: "Zen demo site"
+title: "Sex, Beauty and Statistics: Not Your Grandfather's Journal Club"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v4"
 languageCode: "en-GB"
@@ -32,21 +32,23 @@ outputs:
 
 params:
   author:
-    name: "Fredrik Jonsson"
+    name: "Regina & Kristin"
     url: "https://xdeb.org"
-  contact: "frjo@xdeb.org"
+  contact: "regina.nuzzo@gmail.com
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
-  description: "The zen theme for Hugo demo site."
+  description: "Site for the Sex, Beauty, and Statistics Pocast"
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
+  logo: false
   imageMaxWidth: 400
   logoWidth: 64
   logoHeight: 64
   mainSections:
     - blog
+  math: true
   mobileMenu: true
   mobileMenuOutline: true
   poweredby: true
@@ -65,33 +67,33 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "Blog"
-          weight: 2
-          pageRef: "/blog/"
+        # - Name: "Blog"
+        #   weight: 2
+        #   pageRef: "/blog/"
         - Name: "Podcast"
           weight: 4
           pageRef: "/podcast/"
-        - Name: "Products"
-          weight: 6
-          pageRef: "/products/"
-        - Name: "Misc"
-          weight: 8
-          pageRef: "/misc/"
-        - Name: "Search"
-          weight: 10
+        # - Name: "Products"
+        #   weight: 6
+        #   pageRef: "/products/"
+        # - Name: "Misc"
+        #   weight: 8
+        #   pageRef: "/misc/"
+        # - Name: "Search"
+        #   weight: 10
           pageRef: "/search/"
         - Name: "Contact"
           weight: 12
           pageRef: "/contact/"
 
-  sv:
-    weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
-    menu:
-      main:
-        - Name: "Hem"
-          weight: -10
-          pageRef: "/"
+  # sv:
+  #   weight: 2
+  #   languageName: "Svenska"
+  #   languageCode: "sv-SE"
+  #   contentDir: content/sv
+  #   menu:
+  #     main:
+  #       - Name: "Hem"
+  #         weight: -10
+  #         pageRef: "/"
 
