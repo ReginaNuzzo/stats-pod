@@ -42,7 +42,7 @@ params:
   feedlinks: true
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
-  logo: false
+  logo: true
   imageMaxWidth: 400
   logoWidth: 64
   logoHeight: 64
