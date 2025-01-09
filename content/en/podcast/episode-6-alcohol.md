@@ -4,6 +4,7 @@ date: "2024-01-28T00:00:00"
 podcast:
     mp3: podcasts/Episode-6-Alcohol.mp3
     duration: 1:06:22
+    image: red-wine.jpg
     explicit: false
     episode: 6
     episodeType: full
