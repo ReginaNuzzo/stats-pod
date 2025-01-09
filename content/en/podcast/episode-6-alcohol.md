@@ -4,12 +4,10 @@ date: "2024-01-28T00:00:00"
 podcast:
     mp3: podcasts/Episode-6-Alcohol.mp3
     duration: 1:06:22
-    image: "red-wine.jpg"
 ---
 
 # Alcohol
 
-![](images/red-wine.jpg)
 
 Does a daily glass of wine really keep the cardiologist away? It's a claim we've all heard: light to moderate drinking is good for your heart. But is it science or just a convenient excuse for happy hour? In this episode, we'll dive into the history behind this claim, discuss the challenges of observational studies and statistical adjustment, and explore attempts at randomized trials and natural experiments to get to the bottom of this boozy debate. Grab your drink--or maybe don't--and join us!
 
