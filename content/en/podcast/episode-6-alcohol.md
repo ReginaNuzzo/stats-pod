@@ -15,14 +15,15 @@ podcast:
 
 Does a daily glass of wine really keep the cardiologist away? It's a claim we've all heard: light to moderate drinking is good for your heart. But is it science or just a convenient excuse for happy hour? In this episode, we'll dive into the history behind this claim, discuss the challenges of observational studies and statistical adjustment, and explore attempts at randomized trials and natural experiments to get to the bottom of this boozy debate. Grab your drink--or maybe don't--and join us!
 
-## Statistical topics covered: 
+## Statistical topics covered
 confounding, statistical adjustment, regression, residual and unmeasured confounding, randomized trials, multiple testing, outcome switching, Mendelian randomization
 
-## Methodologic morals:
-### Kristin: _Statistical adjustment cannot erase all confounding._
+## Methodologic morals
+Kristin: _Statistical adjustment cannot erase all confounding._
 
-### Regina: _When you can't experiment on people, let Nature experiment on people._
+Regina: _When you can't experiment on people, let Nature experiment on people._
 
+## References
 [Gallup Poll statistics on Americans' drinking habits](https://news.gallup.com/poll/1582/alcohol-drinking.aspx)
 
 [New Canadian drinking guidelines](https://www.ccsa.ca/canadas-guidance-alcohol-and-health)
@@ -39,7 +40,8 @@ Slade E, Drysdale H, Goldacre B, COMPare Team. [Discrepancies between prespecifi
 
 Biddinger KJ, Emdin CA, Haas ME, et al. [Association of habitual alcohol intake with risk of cardiovascular disease](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2790520). JAMA Netw Open. 2022;5:e223849.
 
-Kristin and Regina's online courses
+
+## Kristin and Regina's online courses
 
 [Demystifying Data: A Modern Approach to Statistical Understanding](https://online.stanford.edu/courses/som-xche0033-demystifying-data-modern-approach-statistical-understanding)
 
