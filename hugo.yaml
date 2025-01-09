@@ -81,7 +81,7 @@ languages:
         #   pageRef: "/misc/"
         # - Name: "Search"
         #   weight: 10
-          pageRef: "/search/"
+          # pageRef: "/search/"
         - Name: "Contact"
           weight: 12
           pageRef: "/contact/"
