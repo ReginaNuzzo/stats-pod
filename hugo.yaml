@@ -47,7 +47,7 @@ params:
   logoWidth: 64
   logoHeight: 64
   mainSections:
-    - blog
+    - podcast
   math: true
   mobileMenu: true
   mobileMenuOutline: true
