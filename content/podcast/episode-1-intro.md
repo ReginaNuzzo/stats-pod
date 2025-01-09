@@ -8,7 +8,6 @@ podcast:
 
 # Intro
 
-{{< figure src="images/red-wine.jpg" >}}
 
 Who are your hosts for this nerdy, irreverent new podcast? Tune in with Kristin and Regina and listen as they talk about backgrounds, how they met, what makes them such good friends and collegues, and they're starting a podcast for fun on the side. 
 
